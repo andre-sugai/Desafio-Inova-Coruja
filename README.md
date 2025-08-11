@@ -47,7 +47,7 @@ Utilizada para registrar os leads qualificados (caminho de sucesso) e as falhas 
 
 ## 2. Exemplo de Payload para Teste do Webhook
 
-Você pode testar o workflow enviando requisições `POST` para a URL de teste do nó `Recebe Mensagem`.
+Você pode testar o workflow enviando requisições `POST` para a URL de teste do nó `Recebe Mensagem` via terminal.
 
 ### 2.1. Teste com Mensagem de Texto
 
