@@ -1,4 +1,4 @@
-# Desafio Agente SDR - Automação para Qualificação de Leads
+# Desafio Inova Coruja - Automação para Qualificação de Leads
 
 Este repositório contém a solução para o desafio de criação de um agente SDR (Sales Development Representative) utilizando N8N. O workflow foi projetado com foco em uma solução de classificação de mensagens recebidas via WhatsApp para áudio e texto, também possui um tratamento de erros explícito para garantir que nenhuma interação com um lead seja perdida.
 
